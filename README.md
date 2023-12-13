@@ -13,10 +13,11 @@
 
 今天是我们恋爱的第{{love_day.DATA}}天 
 
-小刘同学的生日：{{birthday1.DATA}} 
+{{birthday1.DATA}} 
 
-不知名人士的生日：{{birthday2.DATA}}
+{{birthday2.DATA}}
 
 
 {{note_en.DATA}} 
+
 {{note_ch.DATA}}
