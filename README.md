@@ -1,5 +1,4 @@
 # daily_reminder
-模板内容如下：
 
 {{date.DATA}} 
 
@@ -18,6 +17,6 @@
 {{birthday2.DATA}}
 
 
-{{note_en.DATA}} 
+金句：{{note_en.DATA}} 
 
-{{note_ch.DATA}}
+英文：{{note_ch.DATA}}
