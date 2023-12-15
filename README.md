@@ -12,9 +12,9 @@
 
 今天是我们恋爱的第{{love_day.DATA}}天 
 
-小刘同学:{{birthday1.DATA}} 
+小刘同学：{{birthday1.DATA}} 
 
-小林同学:{{birthday2.DATA}}
+小林同学：{{birthday2.DATA}}
 
 
 金句：{{note_en.DATA}} 
