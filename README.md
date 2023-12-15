@@ -12,11 +12,11 @@
 
 今天是我们恋爱的第{{love_day.DATA}}天 
 
-小刘同学：{{birthday1.DATA}} 
+{{birthday1.DATA}} 
 
-小林同学：{{birthday2.DATA}}
+{{birthday2.DATA}}
 
 
-金句：{{note_en.DATA}} 
+{{note_en.DATA}} 
 
-英文：{{note_ch.DATA}}
+{{note_ch.DATA}}
